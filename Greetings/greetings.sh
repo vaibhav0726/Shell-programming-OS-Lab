@@ -22,6 +22,7 @@ elif [ $h -gt 16 -a $h -le 20 ]
 then
 echo "Hello $a Good Evening"
 
+#giving message of good night
 else
 echo "Hello $a Good Night"
 fi
