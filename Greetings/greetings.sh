@@ -18,6 +18,7 @@ elif [ $h -gt 12 -a $h -le 16 ]
 then
 echo "Hello $a Good Afternoon"
 
+#giving message of Good evening
 elif [ $h -gt 16 -a $h -le 20 ]
 then
 echo "Hello $a Good Evening"
